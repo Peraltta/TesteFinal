@@ -17,7 +17,7 @@
             android:background="@color/colorPrimary"
             android:theme="@style/ThemeOverlay.AppCompat.Dark"
             app:subtitleTextColor="@color/colorAccent"
-            app:title="Abhishek News App" />
+            app:title="Pocket News" />
 
 
         <android.support.v7.widget.RecyclerView

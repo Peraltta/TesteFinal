@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">News app</string>
-    <string name="aboutDevText">Hello World!! :D\n
-         \nYou can Find me on GitHub, LinkedIn and StackOverflow.
-         \nDo check my other projects and Follow me.\n
-         \nJust Trying to implement whatever I learn and make a tinny dent in the universe.</string>
+    <string name="aboutDevText"> O aplicativo Pocket News traz diversas noticias do dia-a-dia para que o usuário possa se manter atualizado sobre os acontecimentos diarios.
+    \n\n Através dele é possível compartilhar e visualizar informações de forma comprimida ou poder ler mais e obter todos os detalhes.
+    \n\n Esperamos que você utilize o absorva as informações disponiveis para se manter conectado e informado.
+ </string>
 </resources>

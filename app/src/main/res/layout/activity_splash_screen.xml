@@ -12,6 +12,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_above="@+id/logo_name"
+        android:layout_marginBottom="238dp"
         android:layout_centerHorizontal="true"
         android:contentDescription="news Icon"
         android:src="@drawable/news_icon_abhi" />
@@ -24,7 +25,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="-180px"
         android:contentDescription="Devloper"
-        android:src="@drawable/abhishek" />
+        />
 
     <ImageView
         android:id="@+id/poweredBy"
@@ -32,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/imageView"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/newsapi"
+
         android:textColor="#FFAB40" />
 
 

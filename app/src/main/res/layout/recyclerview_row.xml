@@ -33,7 +33,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:text="News In India"
+                android:text="Noticias"
                 android:textColor="#000"
                 android:textSize="18sp" />
 
@@ -50,19 +50,20 @@
             android:layout_height="wrap_content">
 
             <Button
+                android:id="@+id/exploreButtonId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Leia mais"
+                android:theme="@style/PrimaryFlatButton" />
+            <Button
 
                 android:id="@+id/shareButtonId"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="SHARE"
+                android:text="Compartilhe"
                 android:theme="@style/PrimaryFlatButton" />
 
-            <Button
-                android:id="@+id/exploreButtonId"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="EXPLORE"
-                android:theme="@style/PrimaryFlatButton" />
+
 
             <TextView
                 android:id="@+id/hiddenUrl"

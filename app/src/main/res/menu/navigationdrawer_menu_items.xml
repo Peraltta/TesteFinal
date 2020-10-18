@@ -2,19 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
 
-        <item
+      <!--  <item
             android:id="@+id/aboutApp"
             android:icon="@drawable/about"
             android:title="About app" />
-        <item
+       --> <item
             android:id="@+id/aboutDev"
 
             android:icon="@drawable/dev"
-            android:title="Devloper" />
+            android:title="Sobre" />
         <item
             android:id="@+id/share"
             android:icon="@drawable/share"
-            android:title="Share" />
+            android:title="Compartilhar" />
 
     </group>
 

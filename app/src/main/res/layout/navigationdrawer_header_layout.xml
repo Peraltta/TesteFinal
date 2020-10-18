@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/headertv2"
         android:layout_marginLeft="10dp"
-        android:text="Hello!!"
+        android:text="Pocket News"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@android:color/white" />
 
@@ -34,7 +34,7 @@
         android:layout_marginBottom="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:text="Abhishek Bhardwaj"
+        android:text="Aplicativo de Noticias"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
 </RelativeLayout>

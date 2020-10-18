@@ -29,7 +29,7 @@ public class about_dev extends AppCompatActivity {
                /* Intent myIntent = new Intent(v.getContext(), newsExplore.class);
                 myIntent.putExtra("newsUrl", "https://github.com/Abhi5h3k");
                 v.getContext().startActivity(myIntent);*/
-                String url = "https://github.com/Abhi5h3k";
+                String url = "https://github.com/";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
@@ -41,7 +41,7 @@ public class about_dev extends AppCompatActivity {
                /* Intent myIntent = new Intent(v.getContext(), newsExplore.class);
                 myIntent.putExtra("newsUrl", "https://www.linkedin.com/in/abhishek-bhardwaj-b16764166");
                 v.getContext().startActivity(myIntent);*/
-                String url = "https://www.linkedin.com/in/abhishek-bhardwaj-b16764166";
+                String url = "https://www.linkedin.com";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
@@ -54,7 +54,7 @@ public class about_dev extends AppCompatActivity {
              /*   Intent myIntent = new Intent(v.getContext(), newsExplore.class);
                 myIntent.putExtra("newsUrl", "https://stackoverflow.com/users/6870223/abhi?tab=profile");
                 v.getContext().startActivity(myIntent);*/
-                String url = "https://stackoverflow.com/users/6870223/abhi?tab=profile";
+                String url = "https://stackoverflow.com";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
